@@ -18,7 +18,7 @@ if(!token_data){
 	}
 	
 	var headers = {
-	    'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.14(0x18000e2c) NetType/4G Language/zh_CN',
+	    'User-Agent': 'Mozilla/5.0 (Linux; Android 11; M2007J3SC Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4240.99 XWEB/3171 MMWEBSDK/20211001 Mobile Safari/537.36 MMWEBID/2246 MicroMessenger/8.0.16.2040(0x28001077) Process/appbrand1 WeChat/arm64 Weixin NetType/WIFI Language/zh_CN ABI/arm64 MiniProgramEnv/android',
 	    'Content-Type': 'application/json',
 	    'Referer': 'https://servicewechat.com/wxd4e4a53c00d1a511/0/page-frame.html',
 	    'Connection': 'keep-alive',
